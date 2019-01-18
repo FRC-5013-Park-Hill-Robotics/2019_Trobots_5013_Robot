@@ -20,3 +20,4 @@
 #FPGA Compilations
 *.lvbitx
 builds
+*.aliases
