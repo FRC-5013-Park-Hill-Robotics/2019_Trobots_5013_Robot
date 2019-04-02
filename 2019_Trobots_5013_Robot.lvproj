@@ -131,10 +131,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 		<Item Name="Autonomous.vi" Type="VI" URL="../Autonomous.vi"/>
-		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="SubSystems.vi" Type="VI" URL="../SubSystems.vi"/>
-		<Item Name="In Acceptable Range.vi" Type="VI" URL="../../FRC_LV_Tools/In Acceptable Range.vi"/>
-		<Item Name="Square with Sign.vi" Type="VI" URL="../../FRC_LV_Tools/Square with Sign.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Command Status Info.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Framework/Command Status Info.ctl"/>
@@ -651,6 +648,9 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="Get Connected Devices.vi" Type="VI" URL="../../FRC_LV_Tools/Get Connected Devices.vi"/>
 			<Item Name="Get Devices JSON.ctl" Type="VI" URL="../../FRC_LV_Tools/Get Devices JSON.ctl"/>
+			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
+			<Item Name="In Acceptable Range.vi" Type="VI" URL="../../FRC_LV_Tools/In Acceptable Range.vi"/>
+			<Item Name="Square with Sign.vi" Type="VI" URL="../../FRC_LV_Tools/Square with Sign.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
